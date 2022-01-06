@@ -105,9 +105,9 @@ width: 100%;
 }
 .develop img{
  width: 60%;
- padding: 30px 50px ;
- margin-left: 60px;
-
+ box-shadow: 15px 15px 50px gray;
+ margin-left: 100px;
+ 
  
 
 }
@@ -150,6 +150,7 @@ width: 50%;
 .images img{
   width: 70%;
   margin-left: 110px;
+  box-shadow: 15px 15px 50px gray;
 }
 
 .container {
